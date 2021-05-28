@@ -1,0 +1,11 @@
+You installed Pipenv via pip install
+
+To lunch PySpark that you installed inside pipenv
+
+Start Mac OS terminal 
+Then type pipenv shell
+Then type Jupiter notebook 
+
+Here u go 
+
+U can install lots of model like pandas nymphs and all inside pipenv 
